@@ -60,16 +60,16 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - Baixamos séries históricas de NDVI de áreas agrícolas usando o SATVeg.
 - Coletamos dados oficiais de produtividade da soja no IBGE/SIDRA.
 - Juntamos as informações em planilhas para análise.
-- 
+  
 **2. Análise Exploratória:**
 - Fizemos gráficos para ver o comportamento do NDVI ao longo dos anos.
 - Analisamos se existia relação entre o NDVI e a produtividade da soja.
-- 
+  
 **3. Modelagem de Regressão:**
 - Aplicamos os modelos KNN, Random Forest e SVM para prever o valor da 
 produtividade (em kg/ha).
 - Avaliamos os modelos usando R² e MAE.
-- 
+  
 **4. Modelagem de Classificação:**
 - Classificamos a produtividade como "Boa" ou "Má" com base no NDVI médio.
 - Aplicamos Random Forest, KNN e SVM para prever a categoria.
@@ -91,6 +91,7 @@ produtividade (em kg/ha).
 | SVM Classifier | 0.8333 |
 - Melhor resultado de classificação: **Random Forest Classifier** (acurácia 
 100%).
+  
 ## 🧠 Conclusão
 Mesmo usando apenas o NDVI, conseguimos montar modelos que tiveram bons 
 resultados de classificação e resultados razoáveis de regressão.
