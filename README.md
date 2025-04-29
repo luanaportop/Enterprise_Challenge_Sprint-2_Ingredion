@@ -53,7 +53,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
    - Execute as células do notebook em sequência.
 
 
-## 🎥 Link do vídeo: ...
+## 🎥 Link do vídeo: https://youtu.be/v3eubDamI8c?si=EAjBVXkkWlx84lQB
 
 ## ⚙️ Etapas Realizadas
 **1. Coleta e Organização dos Dados:**
